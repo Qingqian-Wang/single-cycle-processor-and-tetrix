@@ -1,0 +1,67 @@
+
+
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/imem.v
+
+Nov 26 11PM:04:02>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+imem.vhd
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/dmem.v
+
+Nov 27 12AM:51:37>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+dmem.vhd
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/dmem.vhd
+
+Nov 27 12AM:56:50>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+dmem.v
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/dmem.v
+
+Nov 27 12AM:57:15>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+dmem.vhd
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/pll.v
+
+Nov 27 12PM:04:31>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/pll.v
+
+Dec 03 04PM:16:02>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)

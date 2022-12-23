@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hb/Desktop/ece550/ECE_550/Lab_6/Rec6_VGA/skeleton_restored/simulation/qsim
+vprocessor
+Z1 !s110 1637949551
+!i10b 1
+!s100 ?=nN9GH1fdZWTSRWY7Ozo2
+IKD3LCZEXjz;5lBZ`Dh`iY1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1637949550
+8skeleton.vo
+Fskeleton.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1637949551.000000
+!s107 skeleton.vo|
+!s90 -work|work|skeleton.vo|
+!i113 1
+Z5 o-work work
+vprocessor_vlg_vec_tst
+R1
+!i10b 1
+!s100 e32@5BoOoL4WMI020lP9b0
+IoaLcV6P27h[daWR9;Z37z1
+R2
+R0
+w1637949548
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R5

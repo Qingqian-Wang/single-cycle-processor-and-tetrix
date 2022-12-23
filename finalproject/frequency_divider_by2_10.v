@@ -1,0 +1,24 @@
+module frequency_divider_by2_10 ( clk ,rst,out_clk );
+	output reg out_clk;
+	input clk ;
+	input rst;
+	wire clk_div2_1;
+	wire clk_div2_2;
+	wire clk_div2_3;
+	wire clk_div2_4;
+	wire clk_div2_5;
+	wire clk_div2_6; 
+	wire clk_div2_7;
+	wire clk_div2_8;
+	wire clk_div2_9;
+	frequency_divider_by2 ( clk,rst,clk_div2_1 );
+	frequency_divider_by2 ( clk_div2_1,rst,clk_div2_2 );
+	frequency_divider_by2 ( clk_div2_2,rst,clk_div2_3 );
+	frequency_divider_by2 ( clk_div2_3,rst,clk_div2_4 );
+	frequency_divider_by2 ( clk_div2_4,rst,clk_div2_5 );
+	frequency_divider_by2 ( clk_div2_5,rst,clk_div2_6 );
+	frequency_divider_by2 ( clk_div2_6,rst,clk_div2_7 );
+	frequency_divider_by2 ( clk_div2_7,rst,clk_div2_8 );
+	frequency_divider_by2 ( clk_div2_8,rst,clk_div2_9 );
+	frequency_divider_by2 ( clk_div2_9,rst,out_clk );
+endmodule
